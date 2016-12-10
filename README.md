@@ -1,0 +1,1 @@
+# sdl-polygon-visibility
